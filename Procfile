@@ -1,1 +1,1 @@
-worker: python sy.py
+web: python3 sy.py
