@@ -1,3 +1,5 @@
 python-telegram-bot==22.8
 aiohttp==3.12.15
 aiogram==3.22.0
+pydantic==2.11.7
+pydantic-core==2.33.2
